@@ -1,0 +1,5 @@
+mnist_dataset/
+output/
+model/__pycache__/
+loss/__pycache__/
+utill/__pycache__/
